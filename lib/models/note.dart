@@ -1,4 +1,6 @@
-
+/**
+ * Model class
+ */
 class Note{
 
   int _id;
