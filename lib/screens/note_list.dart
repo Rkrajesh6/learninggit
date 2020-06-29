@@ -5,6 +5,9 @@ import 'package:sqlitedatabaseapp/models/note.dart';
 import 'package:sqlitedatabaseapp/screens/note_details.dart';
 import 'package:sqlitedatabaseapp/utils/database_helper.dart';
 
+/**
+ * This clas is used to show the list of item.
+ */
 class NoteList extends StatefulWidget {
 
   @override
